@@ -1,2 +1,3 @@
-#Test
-This is a project to understand and learn Git.
+# Test
+
+This is an empty project to understand and learn Git.
